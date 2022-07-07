@@ -123,15 +123,6 @@ main .box{
     color: hsl(245, 75%, 52%);
 }
 
-.plan_price a:hover{
-    color: hsl(245, 75%, 52%, 0.8);
-}
-
-.plan_price a:active{
-    color: hsl(245, 75%, 52%, 0.8);
-}
-
-
 /* Button styles */
 .btn{
     margin: 30px auto;
@@ -151,14 +142,6 @@ main .box{
     box-shadow: 0 8px 20px hsla(245, 75%, 52%, 0.4);
 }
 
-.btn button:hover{
-    background-color: hsla(245, 75%, 52%, 0.8);
-}
-
-.btn button:active{
-    background-color: hsla(245, 75%, 52%, 0.8);
-}
-
 .cancel{
     text-align: center;
 }
@@ -167,14 +150,6 @@ main .box{
     font-weight: 700;
     text-decoration: none;
     color:hsl(224, 23%, 55%);
-}
-
-.cancel a:hover{
-    color: hsl(223, 47%, 23%);
-}
-
-.cancel a:active{
-    color: hsl(223, 47%, 23%);
 }
 
 
