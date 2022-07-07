@@ -1,5 +1,7 @@
 # Frontend Mentor - Order summary card
+# Abiodun-Omoniyi Victory
 
+# @preciousvicky
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
